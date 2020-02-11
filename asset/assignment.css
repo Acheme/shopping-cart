@@ -1,0 +1,24 @@
+
+
+.qt{
+    width: 2%;
+}
+.qty{
+    margin-left: 30px;
+}
+.empty{
+    background-color: darkslategrey;
+    margin: auto;
+    border: 10px;
+    height: 20px;
+}
+.four{
+    margin-left: 30%;
+}
+.five{
+    margin-left: 30px;
+}
+.one{
+    width: 70%;
+    background-color: white;
+}
